@@ -1,16 +1,16 @@
-### Hi there 👋
+# 👋
 
-<!--
-**gregoutram/gregoutram** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hey, I'm Greg. Based in Yorkshire, I've been a self taught developer for about 15 years. Currently, I'm the Co-founder & Director of [Folifi](https://folifi.com), where I'm the lead engineer and work with companies of all sizes.
 
-Here are some ideas to get you started:
+## Working on 👨‍💻
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- [**Folifi**](https://folifi.com) ~ A global web design agency based in Leeds 🚀 
+- [**Trade Hive**](https://trade-hive.com) ~ Website builder for trade businesses 🔨 
+
+## Stack 🤓
+
+It's quite varied - but lately I've been using NextJS, NuxtJS, Prismic, TailwindCSS and Vercel or AWS.
+
+## Social 📝
+
+I'm not as active as I should be on social media, but I'm starting to tweet some more. So if you fancy reading more about the joys of supporting Leeds United with the occassional bit of tech thrown in, give ma a follow - [follow me](https://twitter.com/gregoutram/).
