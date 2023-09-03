@@ -4,7 +4,7 @@ Hey, I'm Greg. Based in Yorkshire, I've been a self taught developer for about 1
 
 ## Working on 👨‍💻
 
-- [**Folifi**](https://folifi.com) ~ A global web design agency based in Leeds 🚀 
+- [**Folifi**](https://folifi.com) ~ A Google Ads agency based in Leeds 🚀 
 - [**Trade Hive**](https://trade-hive.com) ~ Website builder for trade businesses 🔨 
 
 ## Stack 🤓
